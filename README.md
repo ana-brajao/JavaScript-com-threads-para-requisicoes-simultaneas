@@ -8,7 +8,7 @@
 
 ## Projeto com a plataforma Bytebank, em desenvolver a página de cotações de moedas.
 
-Cotação de moeda em tempo real do dólar, fazendo gráficos que mostram essas alterações e variações de cotação de moedas como 1 dólar, 10 dólares, 100 dólares e assim em diante. Será aplicado conhecimentos em ienes também.
+Cotação de moeda em tempo real do dólar, são gráficos que mostram essas alterações e variações de cotação de moedas como 1 dólar, 10 dólares, 100 dólares e assim em diante. Será aplicado conhecimentos em ienes também.
 
 Para desenvolver essa aplicação, foi utilizado a biblioteca Chart.js, bem como o FetchAPI para conectar a uma API de cotação de moedas. Além disso, foi explorado conceitos como async await, setInterval() e o método Date(), nativo do JavaScript.
 
