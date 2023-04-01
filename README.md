@@ -1,18 +1,7 @@
-<p align="center"> JavaScript: trabalhando com threads para requisições simultâneas"</p>
+<p align="center"> JavaScript: trabalhando com threads para requisições simultâneas</p>
 
 <hr>
 <p align="center">Bytebank: o seu banco digital!</p>
-
-## Assuntos abordados durante o curso
-* Fetch API
-* Threads
-* Concorrência
-* Paralelismo
-* Event Loop
-* Task Queue
-* WebWorkers
-* Single Thread
-* MultiThread
 
 ## Tecnologias utilizadas no projeto
 * HTML
@@ -28,3 +17,14 @@ Para desenvolver essa aplicação, foi utilizado a biblioteca Chart.js, bem como
 Foi também abordado à assincronicidade, então foi aproveitado para entender mais a fundo como o JavaScript lê o código, aprendendo sobre task queue, event loop e call stack.
 
 Também mostra processos de leitura de código, como a de concorrência e o paralelismo. Para melhor entendimento do conceito de paralelismo, vamos compreender o que são threads, single thread e multithreads. Com esses conhecimentos adquiridos nesse projeto, já se pratica como e por que utilizar multithreads no JavaScript.
+
+## Assuntos abordados:
+* Fetch API
+* Threads
+* Concorrência
+* Paralelismo
+* Event Loop
+* Task Queue
+* WebWorkers
+* Single Thread
+* MultiThread
