@@ -1,7 +1,5 @@
-<p align="center"> JavaScript: trabalhando com threads para requisições simultâneas</p>
-
-<hr>
-<p align="center">Bytebank: o seu banco digital!</p>
+## <p align="center"> JavaScript: trabalhando com threads para requisições simultâneas</p>
+## <p align="center"> Bytebank: o seu banco digital!</p>
 
 ## Tecnologias utilizadas no projeto
 * HTML
